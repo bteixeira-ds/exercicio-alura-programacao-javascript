@@ -27,4 +27,4 @@ alert(`Isso ai! Você descobriu o número secreto ${numeroSecreto} com ${tentati
 //    alert(`Isso ai! Você descobriu o número secreto ${numeroSecreto} com ${tentativas} tentativas.`);
 //} else {
 //    alert(`Isso ai! Você descobriu o número secreto ${numeroSecreto} com ${tentativas} tentativa.`);
-//}
+//}    
